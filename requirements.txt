@@ -1,0 +1,6 @@
+pandas
+requests
+xmltodict
+plotly
+dash
+geopandas
