@@ -168,7 +168,7 @@ app.layout = html.Div([
     html.H1(children='Wahlergebnisse in Deinem Wahlkreis',
             ),
     # short guide
-    html.P(children='''Und jetzt zurück zu Deinem Wahlbezirk. Du hast keine Ahnung, in welchem Wahlbezirk du wohnst?
+    html.P(children='''Und jetzt zurück zu Deinem Wahlbezirk. Du weißt nicht, in welchem Wahlbezirk du wohnst?
                         Keine Sorge - auf der Karte kannst du deinem Wahlbezirk herausfinden. 
                         Danach kannst du deinen Wahlbezirk im Menü unter der Karte auswählen. Wenn du deinen Wahlkreis
                         doch kennst, dann kannst du ihn auch einfach unten eingeben.''',
